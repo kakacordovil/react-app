@@ -1,8 +1,9 @@
-#React App
-###Thinking in React - https://reactjs.org/docs/thinking-in-react.html
+# React App
+### Thinking in React - https://reactjs.org/docs/thinking-in-react.html
 
 
-Mock from React JSON API
+Mock from React JSON API.
+
 
 
 
